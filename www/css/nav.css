@@ -1,0 +1,17 @@
+.topnav{
+  background-color: #563d7c;
+}
+
+.text-link{
+ color: #cbbde2 !important;
+}
+
+.nav-item .active{
+
+color:#fff;
+  font-weight:bold;
+}
+
+.main-body{
+  min-height:350px;
+}
