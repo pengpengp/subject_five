@@ -4,7 +4,7 @@ services:
             image: richarvey/nginx-php-fpm:latest
             privileged: true
             ports:
-                    - "3005:80"
+                    - "80:80"
             volumes:
                     - ./www:/var/www/html
             networks:
