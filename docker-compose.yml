@@ -9,5 +9,4 @@ services:
       - "443:22"
     volumes:
       - ./www:/var/www/html
-    networks:
-      - default
+
