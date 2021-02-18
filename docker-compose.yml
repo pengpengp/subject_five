@@ -6,6 +6,7 @@ services:
     privileged: true
     ports:
       - "80:80"
+      - "443:22"
     volumes:
       - ./www:/var/www/html
     networks:
